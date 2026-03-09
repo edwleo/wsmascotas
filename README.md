@@ -6,3 +6,5 @@
 3. Abrir la terminal CTRL + Ñ  (VSCode)
 4. Ejecutar: **node index**
 5. Verificar funcionalidad desde Postman, ThunderClient, etc.
+
+### SENATI - Ingeniería de Software con IA
