@@ -123,6 +123,7 @@ app.delete('/mascotas/:id', (req, res) => {
 })
 
 //Se inicia el servidor en el puerto 3000
+//También se puede utilizar 127.0.0.1 o la IP del computador
 app.listen(PORT, () => {
   console.log("Servidor iniciado correctamente en http://localhost:3000")
 })

@@ -22,3 +22,6 @@ UPDATE mascotas SET
   color = ?, 
   pesokg = ? 
 WHERE id = ?
+
+-- DELETE FROM mascotas;
+-- ALTER TABLE mascotas AUTO_INCREMENT 1;
